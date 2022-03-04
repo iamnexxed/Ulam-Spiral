@@ -11,7 +11,7 @@ let row = 0;
 
 class Point{
     constructor(x, y) {
-        this.x = x;
+        this.x = x;sad
         this.y = y;
     }
 }
