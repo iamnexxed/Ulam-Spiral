@@ -1,4 +1,5 @@
 let spacing = 5;
+if
 let num = 1;
 let state = 1;
 let i = 0;
