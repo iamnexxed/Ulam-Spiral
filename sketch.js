@@ -4,7 +4,6 @@ let state = 1;
 let i = 0;
 let points = [];
 
-
 let numSteps = 1;
 
 let col = 0;
